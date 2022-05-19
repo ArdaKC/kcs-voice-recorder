@@ -8,7 +8,7 @@ tuş yakalama için kullanılan kütüphane. https://github.com/kwhat/jnativehoo
 
 çalıştırmak için komut satırı eğer linux kullanıyorsanız terminal kullanmanız gerekir.
 
-java -jar kcsvoicerecorder.jar yazarak çalıştırabilirsiniz.
+klasör içerisinde java -jar kcsvoicerecorder.jar yazarak yazılımı çalıştırabilirsiniz.
 
 yazılımın çalışması için java-17 sürümü veya üzeri kurulmalıdır.
 
